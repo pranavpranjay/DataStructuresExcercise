@@ -1,8 +1,5 @@
 package StackImplWithLinkedList;
 
-import java.util.LinkedList;
-import java.util.List;
-
 import QueueImplWithLinkedList.Node;
 
 public class StackImpl {
