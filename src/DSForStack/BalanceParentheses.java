@@ -6,8 +6,8 @@ public class BalanceParentheses {
 
 	/*
 	 *Ex:	(A + B)		Correct Parentheses
-	 *		{ (A + B) } Correct Parentheses
-	 *		{ (A + B) ] Incorrect Parentheses
+	 *		{(A + B)}	Correct Parentheses
+	 *		{(A + B)]	Incorrect Parentheses
 	 *		(A + B)} 	Incorrect Parentheses
 	 *		)A + B( 	Incorrect Parentheses
 	 *		[(A + B]) 	Incorrect Parentheses
